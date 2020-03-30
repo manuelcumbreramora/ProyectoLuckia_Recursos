@@ -1,0 +1,7 @@
+C:\Users\david.crespopardo\source\repos\KataTema3\bin\Debug\KataTema3.exe.config
+C:\Users\david.crespopardo\source\repos\KataTema3\bin\Debug\KataTema3.exe
+C:\Users\david.crespopardo\source\repos\KataTema3\bin\Debug\KataTema3.pdb
+C:\Users\david.crespopardo\source\repos\KataTema3\obj\Debug\KataTema3.csprojAssemblyReference.cache
+C:\Users\david.crespopardo\source\repos\KataTema3\obj\Debug\KataTema3.csproj.CoreCompileInputs.cache
+C:\Users\david.crespopardo\source\repos\KataTema3\obj\Debug\KataTema3.exe
+C:\Users\david.crespopardo\source\repos\KataTema3\obj\Debug\KataTema3.pdb
