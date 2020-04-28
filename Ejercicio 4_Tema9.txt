@@ -1,0 +1,9 @@
+Ejercico 1:
+-Desde la parte administrativa de Luckia, se quieren gestionar todos los jugadores de la plataforma.
+A partir de un listado de jugadores con sus datos personales, que podrá ser filtrado por nombre, se podrá acceder a cada ficha de jugador:
+La ficha del jugador mostrara:
+*Datos personales del jugador, con la foto del mismo.
+*Apuestas realizadas (los datos de las apuestas reflejarán los eventos a los que se ha apostado, la cantidad apostada y el resultado de la apuesta), incluyendo gráfico que indique las apuestas por mes.
+*Podrá accederse a cada apuesta, y visualizar un video resúmen de la misma (Si no podeis bajar un video de la apuesta, que sea una imágen).
+
+Implementar en WPF, aplicando los conceptos ya conocidos. Se podrán editar los datos personales del jugador.
