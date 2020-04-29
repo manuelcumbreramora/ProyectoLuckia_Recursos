@@ -1,0 +1,4 @@
+Ejercico 5:
+Completar el ejercicio 4 con las siguientes funcionalidades:
+*Imprimir listado de apuestas de cada jugador en un report, mostrando los datos de apuesta y los datos de jugador. (usar componente de reporting).
+
