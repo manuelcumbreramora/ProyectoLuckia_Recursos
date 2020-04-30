@@ -1,0 +1,20 @@
+Lukia MVC:
+
+Se desea implementar la nueva plataforma de luckia de juegos online.
+En primer lugar, el sistema pedirá el logueo del usuario. Si el usuario no está registrado, accederá a un formulario de registro web donde se le pedirán los datos personales y la cantidad 
+de dinero a introducir en su monedero.
+Al completar el registro, se le enviará un correo electrónico con una contraseña autogenerada.
+Acceso:
+El usuario se logueará, y accederá a una pantalla con todos los juegos disponibles cargados (Deberá cargarse la imágen del juego) en un formato matriz.
+El usuario podrá elegir el juego concreto que desee y se accederá a una pantalla donde se pedirá importe de apuesta (El importe que se apueste saldrá del monedero) 
+y con un botón Jugar, se simulará el juego.
+Si el usuario gana, su monedero acumula el importe apostado mas un porcentaje de ganancia (aleatorio), si el usuario pierde, el importe apostado se pierde.
+Podrá apostar todas las veces que quiera mientras tenga dinero.
+
+Se pide: 
+
+Implementar el desarrollo web en un patrón MVC (separación de responsabilidades, ya sea en capas o en carpetas (Model, Service...)).
+Para el front, usar una plantilla bootstrap (las hay gratis).
+Opcional: usar framework para la vista: Vue.js
+
+
