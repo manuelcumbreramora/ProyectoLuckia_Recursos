@@ -13,6 +13,7 @@ Se elaborará una aplicación web MCV, en tres capas, implementando Entity frame
 ->En la pantalla de edición/alta de casinos, asociaremos las máquinas y los trabajadores a través de una 
 funcionalidad de búsqueda de elementos.
 ->No se permite el borrado de máquinas o de trabajadores que estén asociados a un casino
+->El borrado de casino será un borrado lógico
 
 
 
