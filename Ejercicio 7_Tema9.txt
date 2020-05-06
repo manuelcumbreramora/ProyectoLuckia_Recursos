@@ -1,0 +1,17 @@
+
+Ejercico 7:
+Elaborar CRUD de mantenimiento de Maquinas, Casinos físicos y Trabajadores.
+*Mantenimiento de Máquinas (tipo de maquina, nombre, numero de serie), 
+*Mantenimiento de Trabajadores (DNI, Nombre, Apellidos, Dirección, Cargo), 
+*Mantenimiento de Casinos Físicos (Número, Nombre, Listado de Máquinas, Listado de Trabajadores)
+
+Se elaborará una aplicación web MCV, en tres capas, implementando Entity framework
+
+
+->Casino tiene x maquinas y x2 trabajadores.
+->Los trabajadores solo pertenecen a uno o ningun casino.
+->En la pantalla de edición/alta de casinos, asociaremos las máquinas y los trabajadores a través de una 
+funcionalidad de búsqueda de elementos.
+
+
+
