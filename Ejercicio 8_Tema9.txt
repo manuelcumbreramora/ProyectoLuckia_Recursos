@@ -1,0 +1,11 @@
+Ejercico 8:
+
+Se implementará un sistema de apuestas online donde el jugador podrá consutar los eventos a los que puede apostar.
+Funcionalidades:
+*Se crearán apuestas sobre los eventos que se seleccionen del listado.
+*El usuario podrá crear y modificar los datos de su monedero.
+*También se podrán visualizar las apuestas que se hayan realizado. (En una pantalla aparte)
+
+Para esto, se elabora un servicio que modificará los datos personales del jugador, obtendrá los eventos disponibles, gestionará las apuestas y gestionará el monedero del usuario.
+
+
